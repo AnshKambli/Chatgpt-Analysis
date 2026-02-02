@@ -152,5 +152,3 @@ ChatGPT here works as a **learning and productivity tool**, not just a chatbot.
 **Ansh Kambli**
 Project built to understand personal learning and thinking patterns using AI conversation data.
 
-
-If you want, next I’ll write a **LinkedIn post** that explains this project in a way recruiters love.
